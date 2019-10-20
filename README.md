@@ -29,7 +29,7 @@ Edite o arquivo package.json
 ```
 Edite o arquivo public/index.html
 ```
-<html lang="en">
+<html lang="pt-br">
   <head>
     <title>nome-do-seu-jogo</title>
     ...
