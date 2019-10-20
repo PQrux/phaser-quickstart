@@ -40,6 +40,23 @@ Passo 4: Executar!
 ```
 npm start
 ```
+## Comandos Úteis
+
+Existem 3 scripts prontos neste projeto para agilizar o desenvolvimento, sendo eles:
+- Auxilia no desenvolvimento, utiliza webpack-dev-server para servir a a aplicação e identificar mudanças no código, atualizando o navegador:
+```
+npm start
+```
+- Utilizado para gerar o bundle de produção do projeto, após essa geração, você está pronto para enviar seu diretório public para o servidor!
+```
+npm run build
+```
+
+- Utilizado para gerar o bundle de produção do projeto e testá-lo, aceita comandos como --host=ENDEREÇO, para determinar em qual interface será inicializado o servidor.
+```
+npm run start:production
+```
+
 
 ## Outros projetos como esse
 
